@@ -75,6 +75,7 @@ function App() {
       if you use exact then it goes to exect location otherwise it goes partial
       /users --> Component 1
       /users/home -->Component 2 */}
+      {/* hello */}
 
           <Route exact path="/about"
           element={<About /> }/>
